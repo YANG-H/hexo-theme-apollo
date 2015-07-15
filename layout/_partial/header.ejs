@@ -10,6 +10,8 @@
 			<% for (var i in theme.menu){ %><li><a href="<%- theme.menu[i] %>"><%= i %></a></li><% } %>
 			<li><a id="nav-search-btn" class="nav-icon" title="Search"></a></li>
 			<% if (theme.rss){ %><li><a href="<%- theme.rss %>" id="nav-rss-link" class="nav-icon" title="RSS Feed"></a></li><% } %>
+			<% if (theme.twitter){ %><li><a href="https://twitter.com/<%- theme.twitter %>" id="nav-twitter-btn" class="nav-icon" title="Follow @<%- theme.twitter %>"></a></li><% } %>
+			<% if (theme.facebook) { %><li><a class="nav-icon" href="https://www.facebook.com/<%- theme.facebook %>" id="nav-facebook-btn" title="Follow me on Facebook"></a></li><% } %>
 		</ul>
 	</nav>
 	<div id="search-form-wrap">
