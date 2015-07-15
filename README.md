@@ -2,6 +2,7 @@ Hexo theme: Apollo
 =================
 
 **This hexo theme is modified from SANOGRAPHIX.NET**
+
 **And is further adjusted for better Chinese illustration**
 
 [Original](https://github.com/sanographix/tumblr/tree/master/apollo) (Tumblr theme)  
@@ -51,6 +52,7 @@ favicon: /favicon.png
 
 - **menu** - Navigation menu
 - **rss** - RSS link
+- **contact** - Facebook & Twitter
 - **excerpt_link** - "Read More" link at the bottom of excerpted articles. `false` to hide the link.
 - **fancybox** - Enable [Fancybox](http://fancyapps.com/fancybox/)
 - **google_analytics** - Google Analytics ID
