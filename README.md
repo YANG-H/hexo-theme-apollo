@@ -2,9 +2,10 @@ Hexo theme: Apollo
 =================
 
 **This hexo theme is modified from SANOGRAPHIX.NET**
+**And is further adjusted for better Chinese illustration**
 
 [Original](https://github.com/sanographix/tumblr/tree/master/apollo) (Tumblr theme)  
-[Demo](http://joyceim.github.io/hexo-theme-apollo)
+[Demo](http://howyoung.info/)
 
 
 ##Installation
@@ -13,7 +14,7 @@ Hexo theme: Apollo
 
 Run this command from inside your hexo project
 ``` bash
-$ git clone https://github.com/joyceim/hexo-theme-apollo.git themes/apollo
+$ git clone https://github.com/YANG-H/hexo-theme-apollo.git themes/apollo
 ```
 
 **Apollo requires Hexo 2.4 and above.**
@@ -33,6 +34,11 @@ menu:
     Home: /
     Archives: /archives
 rss: /atom.xml
+
+# Contact
+contact:
+    facebook: yang.hao.12 # Set your facebook id here
+    twitter: aognay # Set your twitter id here
 
 # Content
 excerpt_link: Read More
