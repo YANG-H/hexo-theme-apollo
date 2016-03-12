@@ -37,9 +37,10 @@ menu:
 rss: /atom.xml
 
 # Contact
-contact:
-    facebook: yang.hao.12 # Set your facebook id here
-    twitter: aognay # Set your twitter id here
+twitter: aognay # your twitter
+facebook: yang.hao.12 # your facebook
+github: YANG-H # your github account name
+linkedin: hao-yang-b1110532 # your linkedin id
 
 # Content
 excerpt_link: Read More
