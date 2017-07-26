@@ -1,6 +1,7 @@
 # Header
 menu:
   Home: /
+  TODO: /categories/TODO
   Archives: /archives
 #rss: /atom.xml
 
